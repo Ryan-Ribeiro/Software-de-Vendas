@@ -1,8 +1,11 @@
 # Software-de-Vendas---Trabalho-Final-INCOM-2023
 
 Universidade Federal de Goiás
+
 Introdução à Computação
+
 Profs.: Reinaldo Junior, Mateus Machado e Ernesto Fonseca
+
 Alunos: Paulo Sérgio Rabelo (Turma G02), Ryan Ribeiro (Turma G01) e Vinícius de Jesus (Turma G01).
 
 
