@@ -9,7 +9,7 @@ Profs.: Reinaldo Junior, Mateus Machado e Ernesto Fonseca
 Alunos: Paulo Sérgio Rabelo (Turma G02), Ryan Ribeiro (Turma G01) e Vinícius de Jesus (Turma G01).
 
 
-Orientações:
+# Orientações:
 
 
 1 - Escolher os códigos dos produtos informados na tela e confirmar, em sequência digitar a
