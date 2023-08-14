@@ -6,7 +6,7 @@ Introdução à Computação
 
 Profs.: Reinaldo Junior, Mateus Machado e Ernesto Fonseca
 
-Alunos: [@Paulosrsr] Paulo Sérgio Rabelo (Turma G02), [@Ryan-Ribeiro] Ryan Ribeiro (Turma G01) e [@viniciusdjo] Vinícius de Jesus (Turma G01).
+Alunos: Paulo Sérgio Rabelo (Turma G02) [@Paulosrsr], Ryan Ribeiro (Turma G01) [@Ryan-Ribeiro]  e Vinícius de Jesus (Turma G01) [@viniciusdjo].
 
 
 # Orientações:
